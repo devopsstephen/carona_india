@@ -1,0 +1,9 @@
+node{
+
+  stage{
+  
+ echo "hi"
+ }
+
+
+}
